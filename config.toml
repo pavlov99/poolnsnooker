@@ -35,7 +35,7 @@ theme = "hugo-agency-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "Pool & Snooker Club"
+		brand = "Pool & Snooker"
 		services = "Services"
 		portfolio = "Locations"
 		about = "About"
@@ -47,7 +47,7 @@ theme = "hugo-agency-theme"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "Welcome To Pool & Snooker Club!"
+		title = "Welcome to Pool & Snooker Club!"
 		subtitle = "It's nice to meet you"
 		buttonText = "Tell us more"
 
@@ -60,7 +60,7 @@ theme = "hugo-agency-theme"
 		[[params.services.list]]
 			icon = "fa-shopping-cart"
 			title = "E-Commerce"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+			description = "http://www.wpa-pool.com/web/the_rules_of_play, http://www.wpbsa.com/rules-of-the-game, https://en.wikipedia.org/wiki/Elo_rating_system"
 
 		[[params.services.list]]
 			icon = "fa-laptop"
