@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "Hugo Agency Theme"
+title = "AsiaMiles Pool and Snooker Club"
 theme = "hugo-agency-theme"
 
 
@@ -15,31 +15,31 @@ theme = "hugo-agency-theme"
 	# CSS class.
 
 	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
+        # information about you and your website.
 	name = "Your name"
 	description = "Your description"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
 	# email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
+        #
+        # What you need to do for the setup?
+        #
+        # - set your email address under 'email' below
+        # - upload the generated site to your server
+        # - send a dummy email yourself to confirm your account
+        # - click the confirm link in the email from www.formspree.io
+        # - you're done. Happy mailing!
 	email = "your@email.com"
 
 
 	# Navigation
 	[params.navigation]
-		brand = "The Agency"
+		brand = "Pool & Snooker Club"
 		services = "Services"
 		portfolio = "Portfolio"
 		about = "About"
-		team = "Team"
+		team = "Members"
 		contact = "Contact"
 
 
@@ -47,9 +47,9 @@ theme = "hugo-agency-theme"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "Welcome To Our Studio!"
+		title = "Welcome To Pool & Snooker Club!"
 		subtitle = "It's nice to meet you"
-		buttonText = "Tell me more"
+		buttonText = "Tell us more"
 
 
 	# Services section
