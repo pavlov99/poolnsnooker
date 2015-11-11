@@ -15,4 +15,4 @@ deploy:
 	@git add -A
 	@git commit -m "rebuilding site '$(shell date)'"
 	@git push origin develop
-	@git subtree push --prefix=public git@github.com:pavlov99/poolnsnooker.git master
+	@git subtree push --prefix=public git@github.com:pavlov99/poolnsnooker.git gh-pages
