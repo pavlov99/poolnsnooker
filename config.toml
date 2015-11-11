@@ -30,7 +30,7 @@ theme = "hugo-agency-theme"
         # - send a dummy email yourself to confirm your account
         # - click the confirm link in the email from www.formspree.io
         # - you're done. Happy mailing!
-	email = "your@email.com"
+	email = "kirk.spicy+poolnsnooker@gmail.com"
 
 
 	# Navigation
@@ -160,25 +160,6 @@ theme = "hugo-agency-theme"
 				["fa-facebook", "#"],
 				["fa-linkedin", "#"]
 			]
-
-	# Client section
-	# All the clients' logos are stored under 'static/img/logos'.
-	# Replace them with your clients's logos.
-	[[params.clients]]
-		logo = "envato.jpg"
-		link = "#"
-
-	[[params.clients]]
-		logo = "designmodo.jpg"
-		link = "#"
-
-	[[params.clients]]
-		logo = "themeforest.jpg"
-		link = "#"
-
-	[[params.clients]]
-		logo = "creative-market.jpg"
-		link = "#"
 
 
 	# Contact section
