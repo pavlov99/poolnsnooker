@@ -16,8 +16,8 @@ theme = "hugo-agency-theme"
 
 	# To provide some metadata for search engines feel free to add a few
         # information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "Kirk Spicy"
+	description = "Pool and Snooker Hobby club within Asia Miles"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -37,7 +37,7 @@ theme = "hugo-agency-theme"
 	[params.navigation]
 		brand = "Pool & Snooker Club"
 		services = "Services"
-		portfolio = "Portfolio"
+		portfolio = "Locations"
 		about = "About"
 		team = "Members"
 		contact = "Contact"
@@ -73,14 +73,14 @@ theme = "hugo-agency-theme"
 			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 
 
-	# Portfolio section
+	# Locations section
 	[params.portfolio]
 		# All projects defined in their own files. You can find example projects
 		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
-		title = "Portfolio"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		title = "Locations"
+		subtitle = "We play here."
 
 		[params.portfolio.modal]
             client = "Client"
