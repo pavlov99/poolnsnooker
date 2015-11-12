@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://poolnsnooker.asiameters.com/"
+baseurl = "http://pns.asiameters.com/"
 languageCode = "en-us"
 title = "AsiaMiles Pool and Snooker Club"
 theme = "hugo-agency-theme"
