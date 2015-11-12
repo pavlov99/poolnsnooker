@@ -35,8 +35,8 @@ theme = "hugo-agency-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "Pool & Snooker"
-		services = "Services"
+		brand = "AML Pool & Snooker"
+		services = "Goals"
 		portfolio = "Locations"
 		about = "About"
 		team = "Members"
@@ -54,24 +54,23 @@ theme = "hugo-agency-theme"
 
 	# Services section
 	[params.services]
-		title = "Services"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		title = "Goals"
+		subtitle = "The objective of the club is to let pool and snooker lovers to spend time with each other,<br />share ideas, communicate during game and enhance their skills."
 
 		[[params.services.list]]
-			icon = "fa-shopping-cart"
-			title = "E-Commerce"
-			description = "http://www.wpa-pool.com/web/the_rules_of_play, http://www.wpbsa.com/rules-of-the-game, https://en.wikipedia.org/wiki/Elo_rating_system"
+			icon = "fa-thumbs-up"
+			title = "Have Fun"
+			description = ""
 
 		[[params.services.list]]
-			icon = "fa-laptop"
-			title = "Responsive Design"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+			icon = "fa-users"
+			title = "Play and Chat"
+			description = ""
 
 		[[params.services.list]]
-			icon = "fa-lock"
-			title = "Web"
-			description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-
+			icon = "fa-line-chart"
+			title = "Improve Skills"
+			description = ""
 
 	# Locations section
 	[params.portfolio]
@@ -92,7 +91,7 @@ theme = "hugo-agency-theme"
     # About section
 	[params.about]
 		title = "About"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		subtitle = "Lorem ipsum dolor sit amet consectetur. http://www.wpa-pool.com/web/the_rules_of_play, http://www.wpbsa.com/rules-of-the-game, https://en.wikipedia.org/wiki/Elo_rating_system"
 		endpoint = "Be part<br>of our<br>story!"
 
 		# The events will be listed from the top to the bottom.
@@ -165,7 +164,7 @@ theme = "hugo-agency-theme"
 	# Contact section
 	[params.contact]
 		title = "Contact us"
-		subtitle  = "Lorem ipsum dolor sit amet consectetur."
+		subtitle  = "Have questions? Let us know!"
 		buttonText = "Send message"
 
 		# 'warning' defines error messages for invalid inputs
@@ -189,23 +188,3 @@ theme = "hugo-agency-theme"
 	# Footer section
 	[params.footer]
 		copyright = "Published under the Apache License 2.0."
-
-		[[params.footer.social]]
-			icon = "fa-twitter"
-			link = "#"
-
-		[[params.footer.social]]
-			icon = "fa-facebook"
-			link = "#"
-
-		[[params.footer.social]]
-			icon = "fa-linkedin"
-			link = "#"
-
-		[[params.footer.quicklinks]]
-			text = "Privacy Policy"
-			link = "#"
-
-		[[params.footer.quicklinks]]
-			text = "Terms of Use"
-			link = "#"
