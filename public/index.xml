@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AsiaMiles Pool and Snooker Club</title>
-    <link>http://poolnsnooker.asiameters.com/</link>
+    <link>http://pns.asiameters.com/</link>
     <description>Recent content on AsiaMiles Pool and Snooker Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://poolnsnooker.asiameters.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pns.asiameters.com/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
