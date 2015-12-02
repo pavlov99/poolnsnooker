@@ -38,8 +38,8 @@ theme = "hugo-agency-theme"
 		brand = "AML Pool & Snooker"
 		services = "Goals"
 		portfolio = "Locations"
-		about = "About"
-		team = "Members"
+		# about = "About"
+		# team = "Members"
 		contact = "Contact"
 
 
@@ -89,7 +89,7 @@ theme = "hugo-agency-theme"
 
 
     # About section
-	[params.about]
+        [params.about]
 		title = "About"
 		subtitle = "Lorem ipsum dolor sit amet consectetur. http://www.wpa-pool.com/web/the_rules_of_play, http://www.wpbsa.com/rules-of-the-game, https://en.wikipedia.org/wiki/Elo_rating_system"
 		endpoint = "Be part<br>of our<br>story!"
